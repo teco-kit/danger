@@ -54,12 +54,12 @@ Signalwort: Gefahr
 ### Gebotszeichen
 1 |  2 
 :-------------------------:|:-------------------------:
-<img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M004_Augenschutz-benutzen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M004_Augenschutz-benutzen.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M003_Gehoerschutz-benutzen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M003_Gehoerschutz-benutzen.jpg" width="100" />
+<img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M004_Augenschutz-benutzen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M004_Augenschutz-benutzen.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M009_Handschutz_benutzen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M009_Handschutz_benutzen.jpg" width="100" />
 
 ### Verbotszeichen
 1 | 2
 :-------------------------:|:-------------------------:
-<img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P010%20Ber%C3%BChren%20verboten.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P010%20Ber%C3%BChren%20verboten.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P028%20Benutzen%20von%20Handschuhen%20verboten.jpg"  data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P028%20Benutzen%20von%20Handschuhen%20verboten.jpg" width="100" /> 
+<img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P003%20Keine%20offene%20Flamme.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P003%20Keine%20offene%20Flamme.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P022%20Essen%20und%20Trinken%20verboten.jpg"  data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P022%20Essen%20und%20Trinken%20verboten.jpg" width="100" /> 
 
 
 ### Technische Schutzmaßnahmen 
@@ -107,6 +107,11 @@ Verunreinigte Kleidung sofort ausziehen. Bewusstlosen niemals etwas einflößen 
 
 
 ## LAGERUNG, SACHGERECHTE ENTSORGUNG UND SONSTIGES
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/LKW_Schild_Abfalltransport.svg/1200px-LKW_Schild_Abfalltransport.svg.png" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/LKW_Schild_Abfalltransport.svg/1200px-LKW_Schild_Abfalltransport.svg.png" width="100" />
+ 
+**Telefon: 22222**
+
+
 ### Lagerung: 
 - Lagertemperaturen von 50 °C nicht überschreiten.
 - \<Aufbewahrung in Gebäude \<xxx\>, Raum \<xxx\>, Gasflaschenschrank mit mindestens 10-fachem Luftwechsel \<xxx\>.\>
