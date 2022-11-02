@@ -7,16 +7,16 @@ Das folgende Beispiel zeigt exemplarisch den Aufbau einer Gefahrenbeurteilung.
 ____
 
 
-# BETRIEBSANWEISUNG FÜR \<BETRIEBSMITTEL>\
+# BETRIEBSANWEISUNG FÜR \<BETRIEBSMITTEL\>
 
 ## ALLGEMEIN
 Organisation: Karlsruher Institut für Technologie
 
 Arbeitsbereich: TECO
 
-Arbeitsplatz / Tätigkeit: \<XXXX>\
+Arbeitsplatz / Tätigkeit: \<XXXX\>
 
-Gebäude / Raum: \<XXXX>\
+Gebäude / Raum: \<XXXX\
 
 ## ANWENDUNGSBEREICH
 Arbeiten mit der Fräsmaschine
@@ -46,7 +46,7 @@ Arbeiten mit der Fräsmaschine
 - Maschine und Arbeitsplatz nicht mit Pressluft ausblasen. Späne nur mit Spänehaken, Handbesen/Pinsel oder geeignetem Industriesauger entfernen.
 
 ### Persönliche Schutzmaßnahmen und Verhaltensregeln
-- Persönliche Schutzausrüstungen <Schutzbrille, Gehörschutz, Hautschutz, Fußschutz> benutzen.
+- Persönliche Schutzausrüstungen \<Schutzbrille, Gehörschutz, Hautschutz, Fußschutz\> benutzen.
 - Enganliegende Kleidung tragen, lange Haare nicht offen tragen.
 - An laufender Maschine keine Handschuhe tragen. Schutzhandschuhe nur bei Werkstück-/ Werkzeugwechsel erlaubt. Ringe und Schmuck ablegen. 
 - Direkten Kontakt zu Kühlschmierstoffen vermeiden.
@@ -74,6 +74,6 @@ Arbeiten mit der Fräsmaschine
 - Reparaturen und Inspektionen nur von autorisiertem Personal durchführen lassen.
 - Nach Änderungen und Reparaturen sind die Schutzmaßnahmen zu überprüfen.
 - Nur Originalersatzteile zur bestimmungsgemäßen Verwendung einsetzen.
-- Bei der Wartung und Instandhaltung die Hersteller – Bedienungsanleitung beachten. \<Wartungsintervall: <xxx>>\
-- Restmaterial und Späne in Behälter \<xxx>\ entsorgen.
+- Bei der Wartung und Instandhaltung die Hersteller – Bedienungsanleitung beachten. \<Wartungsintervall: \<xxx\>\>
+- Restmaterial und Späne in Behälter \<xxx\> entsorgen.
 
