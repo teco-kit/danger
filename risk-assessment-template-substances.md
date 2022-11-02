@@ -1,7 +1,7 @@
 Das folgende Beispiel zeigt exemplarisch den Aufbau einer Gefahrenbeurteilung eines Gefahrenstoff. 
 
 ### Hilfreiche Ressourcen:
-- Gefahrensymbole: https://www.bghm.de/arbeitsschuetzer/praxishilfen/sicherheitszeichen
+- Symbole: https://www.bghm.de/arbeitsschuetzer/praxishilfen/sicherheitszeichen
 - Einige Beispiele zur Hilfe beim Ausfüllen: https://www.kiss.kit.edu/81.php?tab=%5B952%5D#tabpanel-952
 
 ____
@@ -28,19 +28,20 @@ Gebäude / Raum: \<XXXX\>
 
 
 ## GEFAHREN FÜR MENSCH UND UMWELT
-### Gefahrensymbole
-1 |  2 | 3
-:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W024%20Warnung%20vor%20Handverletzungen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W024%20Warnung%20vor%20Handverletzungen.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W025%20Warnung%20vor%20gegenl%C3%A4ufigen%20Rollen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W025%20Warnung%20vor%20gegenl%C3%A4ufigen%20Rollen.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W017%20Warnung%20vor%20hei%C3%9Fer%20Oberfl%C3%A4che.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W017%20Warnung%20vor%20hei%C3%9Fer%20Oberfl%C3%A4che.jpg" width="100" />
+Signalwort: Gefahr
+
+### Gefahrenstoffkennzeichnung
+1 |  2
+:-------------------------:|:-------------------------:
+<img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/GHS-Piktogramme/GHS_02_gr.gif" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/GHS-Piktogramme/GHS_02_gr.gif" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/GHS-Piktogramme/GHS_04_gr.gif" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/GHS-Piktogramme/GHS_04_gr.gif" width="100" /> 
 
 ### Beschreibung
--	Schnittverletzungen bei Kontakt mit scharfen, spitzen oder schartigen Werkstücke oder Fräskopf und Späne.
--	Verletzungsgefahr durch Werkstücke, die sich aus der Spannvorrichtung lösen.
-- Hauterkrankungen beim Umgang mit Kühlschmierstoffen.
-- Verbrennungen an Werkstücken/Werkzeug nach dem Fräsen.
-- Gehörschädigung bei starkem Lärm [ab 85 dB(A)].
-- Fußverletzungen durch herabfallende Werkstücke.
-- Erfassen und Einziehen langer Haare, Handschuhe und Arbeitskleidung.
+-	Extrem entzündbares Gas.
+- Enthält Gas unter Druck; kann bei Erhitzen explodieren.
+- Mit und ohne Luft explosionsfähig
+- Bei hohen Konzentrationen durch Sauerstoffverdrängung Erstickungsgefahr. Das Opfer bemerkt das Ersticken nicht. In niedrigen Konzentrationen können Schwindelgefühl, Kopfschmerz, Übelkeit und Koordinationsstörungen auftreten.
+- Kann mit Luft ein explosionsfähiges Gemisch bilden.
+- Kann mit brandfördernden Stoffen heftig reagieren.
 
 
 ## SCHUTZMAßNAHMEN UND VERHALTENSREGELN
