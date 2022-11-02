@@ -13,12 +13,20 @@ It's simple: if you buy a new dangerous substance or machine, it has to be added
 - Gefaehrdungsbeurteilung (German)
 
 ## Overview of Machines
-| ID            | Name                        | Manual        | Betriebsanweisung | Gefaehrdungsbeurteilung |
-| ------------- | --------------------------- | ------------- | ----------------- | ----------------------- |              
-|               |                             |               |                   |                         |
-|               |                             |               |                   |                         | 
+| ID            | Name                        | Manual        | Betriebsanweisung | Gefaehrdungsbeurteilung | Last Checked |
+| ------------- | --------------------------- | ------------- | ----------------- | ----------------------- | ------------ |              
+| M0            |  Asscon VP310               | ❌            |  ❌                | ❌                      | Never        |
+| M1            |  Formlabs 3B+               | ✅            |  ❌                | ❌                      | Never        | 
+| M2            |  Ultimaker 3                | ✅            |  ❌                | ❌                      | Never        | 
+| M3            |  Fritsch SM920              | ❌            |  ❌                | ❌                      | Never        | 
+| M4            |  Ender 5                    | ✅            |  ❌                | ❌                      | Never        |
+| M5            |  DJI FPV Drone              | ✅            |  ❌                | ❌                      | Never        |
 
 ## Overview of Substances
+| ID            | Name                        | Manual        | Betriebsanweisung | Gefaehrdungsbeurteilung | Last Checked |
+| ------------- | --------------------------- | ------------- | ----------------- | ----------------------- | ------------ |              
+| S0            |  Galden                     | ❌            |  ❌                | ❌                      | Never        |
+| S1            |  Isopropyl                  | ❌            |  ❌                | ❌                      | Never        | 
 
 ## Useful Resources
 - Hazard symbols and warning: https://www.bghm.de/arbeitsschuetzer/praxishilfen/sicherheitszeichen
