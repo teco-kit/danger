@@ -13,6 +13,10 @@ It's simple: if you buy a new dangerous substance or machine, it has to be added
 - Gefaehrdungsbeurteilung (German)
 
 ## Overview of Machines
+| ID            | Name                        | Manual        | Betriebsanweisung | Gefaehrdungsbeurteilung |
+| ------------- | --------------------------- | ------------- | ----------------- | ----------------------- |              
+|               |                             |               |                   |                         |
+|               |                             |               |                   |                         | 
 
 ## Overview of Substances
 
