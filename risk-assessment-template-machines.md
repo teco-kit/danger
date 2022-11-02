@@ -84,6 +84,7 @@ Arbeiten mit der Fräsmaschine
 
 ## VERHALTEN BEI UNFÄLLEN - ERSTE HILFE
 <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/rettung/E003%20Erste%20Hilfe.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/rettung/E003%20Erste%20Hilfe.jpg" width="100" />
+
 **NOTRUF: 3333**
 - Grundsätze:  -  Ruhe bewahren   -  Unfallstelle sichern, Geräte ausschalten und gegen Wiedereinschalten sichern.
 - Erste Hilfe leisten und Hilfe herbeirufen. Vorhandene Hinweise zur Ersten Hilfe (siehe Aushang) beachten.
