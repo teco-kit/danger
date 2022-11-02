@@ -26,8 +26,8 @@ It's simple: if you buy a new dangerous substance or machine; or you establish a
 ## Overview of Substances
 | ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Database Entry   | Last Checked |
 | ------------- | --------------------------- | :-------------: | :-----------------: | :-----------------------: | :--------------: | :------------: |              
-| S0            |  Galden                     | ❌              |  ❌                  | ❌                       | ❌               | Never        |
-| S1            |  Isopropyl                  | ❌              |  ❌                  | ❌                       | ❌               | Never        | 
+| S0            |  Galden                     | ✅              |  ❌                  | ❌                       | ❌               | Never        |
+| S1            |  Isopropyl                  | ✅              |  ❌                  | ❌                       | ❌               | Never        | 
 
 ## Overview of Processes
 | ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Last Checked |
