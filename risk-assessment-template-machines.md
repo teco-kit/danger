@@ -43,8 +43,10 @@ Arbeiten mit der Fräsmaschine
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M004_Augenschutz-benutzen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M004_Augenschutz-benutzen.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M003_Gehoerschutz-benutzen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M003_Gehoerschutz-benutzen.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M008_Fussschutz-benutzen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M008_Fussschutz-benutzen.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M011-Haende-waschen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M011-Haende-waschen.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M022%20Hautschutzmittel%20benutzen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M022%20Hautschutzmittel%20benutzen.jpg" width="100" />
 
-
-
+### Verbotszeichen
+1 | 2
+:-------------------------:|:-------------------------:
+<img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P010%20Ber%C3%BChren%20verboten.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P010%20Ber%C3%BChren%20verboten.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P028%20Benutzen%20von%20Handschuhen%20verboten.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P028%20Benutzen%20von%20Handschuhen%20verboten.jpg" width="100" /> 
 
 
 ### Technische Schutzmaßnahmen 
