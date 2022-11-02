@@ -2,7 +2,7 @@ Das folgende Beispiel zeigt exemplarisch den Aufbau einer Gefahrenbeurteilung.
 
 ### Hilfreiche Ressourcen:
 - Gefahrensymbole: https://www.bghm.de/arbeitsschuetzer/praxishilfen/sicherheitszeichen
-- Einige Beispiele (KIT): https://www.kiss.kit.edu/81.php?tab=%5B952%5D#tabpanel-952
+- Einige Beispiele zur Hilfe beim Ausfüllen: https://www.kiss.kit.edu/81.php?tab=%5B952%5D#tabpanel-952
 
 ____
 
