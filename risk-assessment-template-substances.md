@@ -18,6 +18,12 @@ Arbeitsplatz / Tätigkeit: \<XXXX\>
 
 Gebäude / Raum: \<XXXX\>
 
+Name des Erstellers: \<XXXX\>
+
+Name des Verantwortlichen: \<XXXX\>
+
+Zu Kenntniss genommen durch Verantwortlichen: \<XXXX\>
+
 ## STOFFBEZEICHNUNG UND EIGENSCHAFTEN
 **Acetylen (gelöst)**
 
