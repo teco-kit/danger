@@ -16,7 +16,7 @@ Arbeitsbereich: TECO
 
 Arbeitsplatz / Tätigkeit: \<XXXX\>
 
-Gebäude / Raum: \<XXXX\
+Gebäude / Raum: \<XXXX\>
 
 ## ANWENDUNGSBEREICH
 Arbeiten mit der Fräsmaschine
