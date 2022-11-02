@@ -22,6 +22,9 @@ Gebäude / Raum: \<XXXX\>
 Arbeiten mit der Fräsmaschine
 
 ## GEFAHREN FÜR MENSCH UND UMWELT
+### Gefahrensymbbole
+![](https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W024%20Warnung%20vor%20Handverletzungen.jpg | width=100)
+### 
 -	Schnittverletzungen bei Kontakt mit scharfen, spitzen oder schartigen Werkstücke oder Fräskopf und Späne.
 -	Verletzungsgefahr durch Werkstücke, die sich aus der Spannvorrichtung lösen.
 - Hauterkrankungen beim Umgang mit Kühlschmierstoffen.
