@@ -23,8 +23,9 @@ Arbeiten mit der Fräsmaschine
 
 ## GEFAHREN FÜR MENSCH UND UMWELT
 ### Gefahrensymbbole
-![](https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W024%20Warnung%20vor%20Handverletzungen.jpg | width=100)
-### 
+<img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W024%20Warnung%20vor%20Handverletzungen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W024%20Warnung%20vor%20Handverletzungen.jpg" width="150" />
+
+### Beschreibung
 -	Schnittverletzungen bei Kontakt mit scharfen, spitzen oder schartigen Werkstücke oder Fräskopf und Späne.
 -	Verletzungsgefahr durch Werkstücke, die sich aus der Spannvorrichtung lösen.
 - Hauterkrankungen beim Umgang mit Kühlschmierstoffen.
@@ -35,6 +36,7 @@ Arbeiten mit der Fräsmaschine
 
 
 ## SCHUTZMAßNAHMEN UND VERHALTENSREGELN
+### 
 ### Technische Schutzmaßnahmen 
 - Die Schutzeinrichtungen müssen wirksam sein und dürfen nicht entfernt oder umgangen werden.
 - Werkstücke müssen immer fest und sicher eingespannt werden.
