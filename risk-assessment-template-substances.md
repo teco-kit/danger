@@ -1,4 +1,4 @@
-Das folgende Beispiel zeigt exemplarisch den Aufbau einer Gefahrenbeurteilung eines Gefahrenstoff. 
+Das folgende Beispiel zeigt exemplarisch den Aufbau einer Betriebsanweisung eines Gefahrenstoff. 
 
 ### Hilfreiche Ressourcen:
 - Symbole: https://www.bghm.de/arbeitsschuetzer/praxishilfen/sicherheitszeichen
