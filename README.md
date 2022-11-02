@@ -6,3 +6,7 @@ It's simple: if you buy a new dangerous substance or machine, it has to be added
 - Manual (English or German, ideally both)
 - Betriebsanweisung (German)
 - Gefaehrdungsbeurteilung (German)
+
+## Useful Resources
+- Hazard symbols and warning: https://www.bghm.de/arbeitsschuetzer/praxishilfen/sicherheitszeichen
+- Filled in example forms for dangerous substances and machines https://www.kiss.kit.edu/81.php?tab=%5B952%5D#tabpanel-952
