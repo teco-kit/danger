@@ -1,4 +1,4 @@
-Das folgende Beispiel zeigt exemplarisch den Aufbau einer Gefahrenbeurteilung.
+Das folgende Beispiel zeigt exemplarisch den Aufbau einer Gefahrenbeurteilung einer Maschine. 
 
 ### Hilfreiche Ressourcen:
 - Gefahrensymbole: https://www.bghm.de/arbeitsschuetzer/praxishilfen/sicherheitszeichen
