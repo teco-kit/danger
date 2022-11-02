@@ -16,18 +16,18 @@ It's simple: if you buy a new dangerous substance or machine; or you establish a
 ## Overview of Machines
 | ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Last Checked |
 | ------------- | --------------------------- | :-------------: | :-----------------: | :-----------------------: | :------------: |              
-| M0            |  Asscon VP310               | ❌              |  ❌                 | ❌                        | Never        |
-| M1            |  Formlabs 3B+               | ✅              |  ❌                 | ❌                        | Never        | 
-| M2            |  Ultimaker 3                | ✅              |  ❌                 | ❌                        | Never        | 
-| M3            |  Fritsch SM920              | ❌              |  ❌                 | ❌                        | Never        | 
-| M4            |  Ender 5                    | ✅              |  ❌                 | ❌                        | Never        |
-| M5            |  DJI FPV Drone              | ✅              |  ❌                 | ❌                        | Never        |
+| M0            |  Asscon VP310               | ❌              |  ❌                 | ❌                        | never        |
+| M1            |  Formlabs 3B+               | ✅              |  ❌                 | ❌                        | never        | 
+| M2            |  Ultimaker 3                | ✅              |  ❌                 | ❌                        | never        | 
+| M3            |  Fritsch SM920              | ❌              |  ❌                 | ❌                        | never        | 
+| M4            |  Ender 5                    | ✅              |  ❌                 | ❌                        | never        |
+| M5            |  DJI FPV Drone              | ✅              |  ❌                 | ❌                        | never        |
   
 ## Overview of Substances
 | ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Database Entry   | Last Checked |
 | ------------- | --------------------------- | :-------------: | :-----------------: | :-----------------------: | :--------------: | :------------: |              
-| S0            |  Galden                     | ✅              |  ❌                  | ❌                       | ❌               | Never        |
-| S1            |  Isopropyl                  | ✅              |  ❌                  | ❌                       | ❌               | Never        | 
+| S0            |  Galden                     | ✅              |  ❌                  | ❌                       | ❌               | never        |
+| S1            |  Isopropyl                  | ✅              |  ❌                  | ❌                       | ❌               | never        | 
 
 ## Overview of Processes
 | ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Last Checked |
