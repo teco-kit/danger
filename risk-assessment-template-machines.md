@@ -46,7 +46,7 @@ Arbeiten mit der Fräsmaschine
 ### Verbotszeichen
 1 | 2
 :-------------------------:|:-------------------------:
-<img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P010%20Ber%C3%BChren%20verboten.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P010%20Ber%C3%BChren%20verboten.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P028%20Benutzen%20von%20Handschuhen%20verboten.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P028%20Benutzen%20von%20Handschuhen%20verboten.jpg" width="100" /> 
+<img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P010%20Ber%C3%BChren%20verboten.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P010%20Ber%C3%BChren%20verboten.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P028%20Benutzen%20von%20Handschuhen%20verboten.jpg"  data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/verbote/P028%20Benutzen%20von%20Handschuhen%20verboten.jpg" width="100" /> 
 
 
 ### Technische Schutzmaßnahmen 
