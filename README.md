@@ -8,10 +8,11 @@ Respository that includes all manuals, using directives and risk assessments for
 If you have questions contact danger [at] teco.edu
 
 ## Process
-It's simple: if you get or setup a new hazardous substance or process, it has to be added here. For each machine, substance or process the following docs should be added:
+It's simple: if you get or setup a new hazardous substance or process, it has to be added here. For each machine, substance or process the following docs must be added:
 - Manual (English or German, ideally both)
 - Betriebsanweisung (German)
 - Gefaehrdungsbeurteilung (German)
+- added it to the list in this README
 
 ## Overview of Machines
 | ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Last Checked |
