@@ -22,8 +22,10 @@ Gebäude / Raum: \<XXXX\>
 Arbeiten mit der Fräsmaschine
 
 ## GEFAHREN FÜR MENSCH UND UMWELT
-### Gefahrensymbbole
-<img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W024%20Warnung%20vor%20Handverletzungen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W024%20Warnung%20vor%20Handverletzungen.jpg" width="100" />
+### Gefahrensymbole
+1 |  2 | 3
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W024%20Warnung%20vor%20Handverletzungen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W024%20Warnung%20vor%20Handverletzungen.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W025%20Warnung%20vor%20gegenl%C3%A4ufigen%20Rollen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W025%20Warnung%20vor%20gegenl%C3%A4ufigen%20Rollen.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W017%20Warnung%20vor%20hei%C3%9Fer%20Oberfl%C3%A4che.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/warn/W017%20Warnung%20vor%20hei%C3%9Fer%20Oberfl%C3%A4che.jpg" width="100" />
 
 ### Beschreibung
 -	Schnittverletzungen bei Kontakt mit scharfen, spitzen oder schartigen Werkstücke oder Fräskopf und Späne.
@@ -36,7 +38,15 @@ Arbeiten mit der Fräsmaschine
 
 
 ## SCHUTZMAßNAHMEN UND VERHALTENSREGELN
-### 
+### Gebotszeichen
+1 |  2 | 3 | 4 | 5  
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M004_Augenschutz-benutzen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M004_Augenschutz-benutzen.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M003_Gehoerschutz-benutzen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M003_Gehoerschutz-benutzen.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M008_Fussschutz-benutzen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M008_Fussschutz-benutzen.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M011-Haende-waschen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M011-Haende-waschen.jpg" width="100" /> | <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M022%20Hautschutzmittel%20benutzen.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/gebote/M022%20Hautschutzmittel%20benutzen.jpg" width="100" />
+
+
+
+
+
 ### Technische Schutzmaßnahmen 
 - Die Schutzeinrichtungen müssen wirksam sein und dürfen nicht entfernt oder umgangen werden.
 - Werkstücke müssen immer fest und sicher eingespannt werden.
