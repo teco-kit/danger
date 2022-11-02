@@ -23,10 +23,10 @@ It's simple: if you buy a new dangerous substance or machine, it has to be added
 | M5            |  DJI FPV Drone              | ✅            |  ❌                | ❌                      | Never        |
 
 ## Overview of Substances
-| ID            | Name                        | Manual        | Betriebsanweisung | Gefaehrdungsbeurteilung | Last Checked |
-| ------------- | --------------------------- | ------------- | ----------------- | ----------------------- | ------------ |              
-| S0            |  Galden                     | ❌            |  ❌                | ❌                      | Never        |
-| S1            |  Isopropyl                  | ❌            |  ❌                | ❌                      | Never        | 
+| ID            | Name                        | Manual        | Betriebsanweisung | Gefaehrdungsbeurteilung | Database Entry | Last Checked |
+| ------------- | --------------------------- | ------------- | ----------------- | ----------------------- | -------------- | ------------ |              
+| S0            |  Galden                     | ❌            |  ❌                | ❌                      | ❌             | Never        |
+| S1            |  Isopropyl                  | ❌            |  ❌                | ❌                      | ❌             | Never        | 
 
 ## Useful Resources
 - Hazard symbols and warning: https://www.bghm.de/arbeitsschuetzer/praxishilfen/sicherheitszeichen
