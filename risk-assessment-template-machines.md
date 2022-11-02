@@ -74,6 +74,8 @@ Arbeiten mit der Fräsmaschine
 
 
 ## VERHALTEN BEI STÖRUNG UND IM GEFAHRFALL
+<img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/brandschutz/F001%20Feuerl%C3%B6scher.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/brandschutz/F001%20Feuerl%C3%B6scher.jpg" width="100" />
+
 **NOTRUF: 3333**
 - Bei Störungen, Arbeiten einstellen und Vorgesetzten verständigen.
 - Schäden nur von autorisiertem Personal beseitigen lassen.
@@ -81,6 +83,7 @@ Arbeiten mit der Fräsmaschine
 
 
 ## VERHALTEN BEI UNFÄLLEN - ERSTE HILFE
+<img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/rettung/E003%20Erste%20Hilfe.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/rettung/E003%20Erste%20Hilfe.jpg" width="100" />
 **NOTRUF: 3333**
 - Grundsätze:  -  Ruhe bewahren   -  Unfallstelle sichern, Geräte ausschalten und gegen Wiedereinschalten sichern.
 - Erste Hilfe leisten und Hilfe herbeirufen. Vorhandene Hinweise zur Ersten Hilfe (siehe Aushang) beachten.
