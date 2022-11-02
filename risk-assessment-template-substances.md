@@ -87,9 +87,10 @@ Signalwort: Gefahr
 <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/brandschutz/F001%20Feuerl%C3%B6scher.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/brandschutz/F001%20Feuerl%C3%B6scher.jpg" width="100" />
 
 **NOTRUF: 3333**
-•	**Im Brandfall:** Falls gefahrlos möglich, Druckgasflasche aus Gefahrenbereich bringen. Für Umgebungsbrand vorhandene Feuerlöscher benutzen
+
+- **Im Brandfall:** Falls gefahrlos möglich, Druckgasflasche aus Gefahrenbereich bringen. Für Umgebungsbrand vorhandene Feuerlöscher benutzen
 Brand von ausströmendem Gas: Nicht löschen, bis Undichtigkeit gefahrlos beseitigt werden kann.
-•	**Bei Freisetzung:** Umluftunabhängiges Atemgerät benutzen. Für ausreichend Lüftung sorgen. Zündquellen beseitigen. Versuchen, den Gasaustritt zu stoppen.
+- 	**Bei Freisetzung:** Umluftunabhängiges Atemgerät benutzen. Für ausreichend Lüftung sorgen. Zündquellen beseitigen. Versuchen, den Gasaustritt zu stoppen.
 
 
 
@@ -97,11 +98,12 @@ Brand von ausströmendem Gas: Nicht löschen, bis Undichtigkeit gefahrlos beseit
 <img src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/rettung/E003%20Erste%20Hilfe.jpg" data-canonical-src="https://www.bghm.de/fileadmin/user_upload/Arbeitsschuetzer/Praxishilfen/Sicherheitszeichen/rettung/E003%20Erste%20Hilfe.jpg" width="100" />
 
 **NOTRUF: 3333**
+ 
 Verunreinigte Kleidung sofort ausziehen. Bewusstlosen niemals etwas einflößen und niemals zum Erbrechen bringen. Nach jedem Vorfall unverzüglich Betriebsärztin/-arzt (MED) kontaktieren.
-Nach Hautkontakt: Keine schädliche Wirkung 
-Nach Augenkontakt: Keine schädliche Wirkung
-Nach Verschlucken: Kein möglicher Expositionsweg
-Nach Einatmen: Person an frische Luft bringen, warm und ruhig halten.
+- **Nach Hautkontakt**: Keine schädliche Wirkung 
+- **Nach Augenkontakt**: Keine schädliche Wirkung
+- **Nach Verschlucken**: Kein möglicher Expositionsweg
+- **Nach Einatmen**: Person an frische Luft bringen, warm und ruhig halten.
 
 
 ## LAGERUNG, SACHGERECHTE ENTSORGUNG UND SONSTIGES
