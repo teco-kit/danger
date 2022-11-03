@@ -23,6 +23,8 @@ It's simple: if you get or setup a new hazardous substance or process, it has to
 | M3            |  Fritsch SM920              | ❌              |  ❌                 | ❌                        | never        | 
 | M4            |  Ender 5                    | ✅              |  ❌                 | ❌                        | never        |
 | M5            |  DJI FPV Drone              | ✅              |  ❌                 | ❌                        | never        |
+| M6            |  Soldering Irons            | ❌              |  ❌                 | ❌                        | never        |
+| M7            |  Hot Air Stations           | ❌              |  ❌                 | ❌                        | never        |
   
 ## Overview of Substances
 | ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Database Entry   | Last Checked |
