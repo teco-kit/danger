@@ -1,5 +1,5 @@
 # danger
-Respository that includes all manuals, using directives and risk assessments for dangerous machines, hazardous substances, and dangerous processes at TECO.
+Respository that includes all manuals, using directives and risk assessments for hazardous machines, substances, and processes at TECO.
 
 - *Safety Officer (Machines):* Dr. Till Riedel
 - *Safety Officer (Processes):* Dr. Till Riedel
@@ -8,26 +8,27 @@ Respository that includes all manuals, using directives and risk assessments for
 If you have questions contact danger [at] teco.edu
 
 ## Process
-It's simple: if you buy a new dangerous substance or machine; or you establish a new dangerous process, it has to be added here. For each machine, substance or process the following docs should be added:
+It's simple: if you get or setup a new hazardous substance or process, it has to be added here. For each machine, substance or process the following docs must be added:
 - Manual (English or German, ideally both)
 - Betriebsanweisung (German)
 - Gefaehrdungsbeurteilung (German)
+- added it to the list in this README
 
 ## Overview of Machines
 | ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Last Checked |
 | ------------- | --------------------------- | :-------------: | :-----------------: | :-----------------------: | :------------: |              
-| M0            |  Asscon VP310               | ❌              |  ❌                 | ❌                        | Never        |
-| M1            |  Formlabs 3B+               | ✅              |  ❌                 | ❌                        | Never        | 
-| M2            |  Ultimaker 3                | ✅              |  ❌                 | ❌                        | Never        | 
-| M3            |  Fritsch SM920              | ❌              |  ❌                 | ❌                        | Never        | 
-| M4            |  Ender 5                    | ✅              |  ❌                 | ❌                        | Never        |
-| M5            |  DJI FPV Drone              | ✅              |  ❌                 | ❌                        | Never        |
+| M0            |  Asscon VP310               | ❌              |  ❌                 | ❌                        | never        |
+| M1            |  Formlabs 3B+               | ✅              |  ❌                 | ❌                        | never        | 
+| M2            |  Ultimaker 3                | ✅              |  ❌                 | ❌                        | never        | 
+| M3            |  Fritsch SM920              | ❌              |  ❌                 | ❌                        | never        | 
+| M4            |  Ender 5                    | ✅              |  ❌                 | ❌                        | never        |
+| M5            |  DJI FPV Drone              | ✅              |  ❌                 | ❌                        | never        |
   
 ## Overview of Substances
 | ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Database Entry   | Last Checked |
 | ------------- | --------------------------- | :-------------: | :-----------------: | :-----------------------: | :--------------: | :------------: |              
-| S0            |  Galden                     | ❌              |  ❌                  | ❌                       | ❌               | Never        |
-| S1            |  Isopropyl                  | ❌              |  ❌                  | ❌                       | ❌               | Never        | 
+| S0            |  Galden                     | ✅              |  ❌                  | ❌                       | ❌               | never        |
+| S1            |  Isopropyl                  | ✅              |  ❌                  | ❌                       | ❌               | never        | 
 
 ## Overview of Processes
 | ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Last Checked |
