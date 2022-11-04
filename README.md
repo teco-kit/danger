@@ -15,7 +15,7 @@ It's simple: if you get or setup a new hazardous substance or process, it has to
 - added it to the list in this README
 
 ## Overview of Machines
-| ID            | Name                                | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Last Checked | Assigned To
+| ID            | Name                                | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Last Checked | Created By
 | ------------- | ----------------------------------- | :-------------: | :-----------------: | :-----------------------: | :------------: | :-----------------------: |             
 | M0            |  Asscon VP310                       | ❌              |  ❌                 | ❌                        | never        | Leon
 | M1            |  Formlabs 3B+                       | ✅              |  ❌                 | ❌                        | never        | Leon
@@ -26,13 +26,13 @@ It's simple: if you get or setup a new hazardous substance or process, it has to
 | M6            |  Hot Air Stations                   | ❌              |  ❌                 | ❌                        | never        | Tim
   
 ## Overview of Substances
-| ID            | Name                               | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Database Entry   | Last Checked | Assigned To
+| ID            | Name                               | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Database Entry   | Last Checked | Created By
 | ------------- | ---------------------------- | :-------------: | :-----------------: | :-----------------------: | :--------------: | :------------: | :------------: |              
 | S0            |  Galden                      | ✅              |  ❌                  | ❌                       | ❌               | never        | -
 | S1            |  Solvents (Isopropyl, Aceton)| ❌              |  ❌                  | ❌                       | ❌               | never        | Tobi K
 
 ## Overview of Processes
-| ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Last Checked | Assigned To
+| ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Last Checked | Created By
 | ------------- | --------------------------- | :-------------: | :-----------------: | :-----------------------: | :------------: | :------------: |               
 | P0            |                             |                 |                     |                           |                |                |
 
