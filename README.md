@@ -26,13 +26,13 @@ It's simple: if you get or setup a new hazardous substance or process, it has to
 | M6            |  Hot Air Stations                   | ❌              |  ❌                 | ❌                        | never        | Tim
   
 ## Overview of Substances
-| ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Database Entry   | Last Checked |
-| ------------- | --------------------------- | :-------------: | :-----------------: | :-----------------------: | :--------------: | :------------: |              
-| S0            |  Galden                     | ✅              |  ❌                  | ❌                       | ❌               | never        |
-| S1            |  Isopropyl                  | ✅              |  ❌                  | ❌                       | ❌               | never        | 
+| ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Database Entry   | Last Checked | Assigned To
+| ------------- | --------------------------- | :-------------: | :-----------------: | :-----------------------: | :--------------: | :------------: | :------------: |              
+| S0            |  Galden                     | ✅              |  ❌                  | ❌                       | ❌               | never        | -
+| S1            |  Isopropyl                  | ✅              |  ❌                  | ❌                       | ❌               | never        | Tobi K
 
 ## Overview of Processes
-| ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Last Checked |
+| ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Last Checked | Assigned To
 | ------------- | --------------------------- | :-------------: | :-----------------: | :-----------------------: | :------------: |              
 | P0            |                             |                 |                     |                           |                |
 
