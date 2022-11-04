@@ -17,19 +17,19 @@ It's simple: if you get or setup a new hazardous substance or process, it has to
 ## Overview of Machines
 | ID            | Name                                | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Last Checked | Created By
 | ------------- | ----------------------------------- | :-------------: | :-----------------: | :-----------------------: | :------------: | :-----------------------: |             
-| M0            |  Asscon VP310                       | ❌              |  ❌                 | ❌                        | never        | Leon
-| M1            |  Formlabs 3B+                       | ✅              |  ❌                 | ❌                        | never        | Leon
-| M2            |  FDM Printer (Ultimaker 3, Ender 5) | ✅              |  ❌                 | ❌                        | never        | Tobi K
-| M3            |  Fritsch SM920                      | ❌              |  ❌                 | ❌                        | never        | Titus
-| M4            |  DJI FPV Drone                      | ✅              |  ❌                 | ❌                        | never        | Dylan
-| M5            |  Soldering Irons                    | ❌              |  ❌                 | ❌                        | never        | Tim
-| M6            |  Hot Air Stations                   | ❌              |  ❌                 | ❌                        | never        | Tim
+| M0            |  Asscon VP310                       | ❌              |  ❌                 | ❌                        | never        | simmon
+| M1            |  Formlabs 3B+                       | ✅              |  ❌                 | ❌                        | never        | simmon
+| M2            |  FDM Printer (Ultimaker 3, Ender 5) | ✅              |  ❌                 | ❌                        | never        | king
+| M3            |  Fritsch SM920                      | ❌              |  ❌                 | ❌                        | never        | plueskow
+| M4            |  DJI FPV Drone                      | ✅              |  ❌                 | ❌                        | never        | roodt
+| M5            |  Soldering Irons                    | ❌              |  ❌                 | ❌                        | never        | schneegans
+| M6            |  Hot Air Stations                   | ❌              |  ❌                 | ❌                        | never        | schneegans
   
 ## Overview of Substances
 | ID            | Name                               | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Database Entry   | Last Checked | Created By
 | ------------- | ---------------------------- | :-------------: | :-----------------: | :-----------------------: | :--------------: | :------------: | :------------: |              
 | S0            |  Galden                      | ✅              |  ❌                  | ❌                       | ❌               | never        | -
-| S1            |  Solvents (Isopropyl, Aceton)| ❌              |  ❌                  | ❌                       | ❌               | never        | Tobi K
+| S1            |  Solvents (Isopropyl, Aceton)| ❌              |  ❌                  | ❌                       | ❌               | never        | king
 
 ## Overview of Processes
 | ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Last Checked | Created By
