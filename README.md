@@ -20,8 +20,8 @@ It's simple: if you get or setup a new hazardous substance or process, it has to
 | M0            |  Asscon VP310                       | ❌              |  ❌                 | ❌                        | never        | Leon
 | M1            |  Formlabs 3B+                       | ✅              |  ❌                 | ❌                        | never        | Leon
 | M2            |  FDM Printer (Ultimaker 3, Ender 5) | ✅              |  ❌                 | ❌                        | never        | Tobi K
-| M3            |  Fritsch SM920                      | ❌              |  ❌                 | ❌                        | never        | -
-| M4            |  DJI FPV Drone                      | ✅              |  ❌                 | ❌                        | never        | -
+| M3            |  Fritsch SM920                      | ❌              |  ❌                 | ❌                        | never        | Titus
+| M4            |  DJI FPV Drone                      | ✅              |  ❌                 | ❌                        | never        | Dylan
 | M5            |  Soldering Irons                    | ❌              |  ❌                 | ❌                        | never        | Tim
 | M6            |  Hot Air Stations                   | ❌              |  ❌                 | ❌                        | never        | Tim
   
