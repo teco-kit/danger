@@ -29,7 +29,7 @@ It's simple: if you get or setup a new hazardous substance or process, it has to
 | ID            | Name                               | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Database Entry   | Last Checked | Assigned To
 | ------------- | ---------------------------- | :-------------: | :-----------------: | :-----------------------: | :--------------: | :------------: | :------------: |              
 | S0            |  Galden                      | ✅              |  ❌                  | ❌                       | ❌               | never        | -
-| S1            |  Solvents (Isopropyl, Aceton)| ✅              |  ❌                  | ❌                       | ❌               | never        | Tobi K
+| S1            |  Solvents (Isopropyl, Aceton)| ❌              |  ❌                  | ❌                       | ❌               | never        | Tobi K
 
 ## Overview of Processes
 | ID            | Name                        | Manual          | Betriebsanweisung   | Gefaehrdungsbeurteilung   | Last Checked | Assigned To
